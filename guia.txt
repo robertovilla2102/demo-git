@@ -1,0 +1,5 @@
+1ro - crear rama master
+2do- para cada feature/bug crear una nueva branch
+3ro - commitear los cambios y pushear A ESA branch
+4to - Generar un pull request desde GITHUB
+5to - Una vez aprobados los cambios, hacer un pull de la rama que ahora esta actualizada
